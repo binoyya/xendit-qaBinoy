@@ -1,3 +1,31 @@
+# Edited By Binoy to add the comment about the test framework Dev
+
+**Tools to be used**
+
+Has been used the same set of file as they were in the shared gitrepo
+
+*Added chromedriver .zip file and replace the old file because of the compatibility issues*
+
+*Added some changes to the package .json file in-order to make the file runnable*
+
+
+"e2e stands for an end to end testing, meaning the test should start by launching the application, perform the required actions in it(as mentioned in the test case) and proper end of the test by closing application, then generate the report without any pause or stop between the test execution." - This is the main concept I have been use to develop the framework and all the test cases are developed under that condition
+
+Has covered 
+
+*Negative*
+
+*BVA*
+
+
+***How to Run the test cases***
+
+1. npm install
+2. npm run test
+
+After the execution test results will generate according to the exe results. Please feel free to contact me if you find any incompatibilities while running the tests.
+
+**********************************************
 
 # Xendit QA Assessment Instructions
 
@@ -60,21 +88,5 @@ The current automation framework is built using the below mentioned technologies
 
 *Cucumber-js*
 
-# Edited By Binoy to add the comment about the test framework Dev
-
-**Tools to be used**
-
-Has been used the same set of file as they were in the shared gitrepo
-
-*Added chromedriver .zip file and replace the old file because of the compatibility issues*
-
-*Added some changes to the packge .json file inprder to make the file runeble*
 
 
-"e2e stands for an end to end testing, meaning the test should start by launching the application, perform the required actions in it(as mentioned in the test case) and proper end of the test by closing application, then generate the report without any pause or stop between the test execution." - This is the main concept I have been use to develop the framework and all the test cases are developed under that condition
-
-Has covered 
-
-*Negative*
-
-*BVA*
