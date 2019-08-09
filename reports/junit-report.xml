@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="test-online-calculator-scenarios;test-subtraction" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-subtraction" time="4.513152634">
+        </testcase>
+        <testcase name="When I enter following values and do the subtraction" classname="test-online-calculator-scenarios;test-subtraction" time="0.001462444">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-subtraction" time="0.000086641">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-subtraction" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-subtraction" time="3.831869699">
+        </testcase>
+        <testcase name="When I enter following values and do the subtraction" classname="test-online-calculator-scenarios;test-subtraction" time="0.000218571">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-subtraction" time="0.000038614">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-subtraction" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-subtraction" time="3.610777606">
+        </testcase>
+        <testcase name="When I enter following values and do the subtraction" classname="test-online-calculator-scenarios;test-subtraction" time="0.000093558">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-subtraction" time="0.000033158">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-subtraction" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-subtraction" time="3.38630827">
+        </testcase>
+        <testcase name="When I enter following values and do the subtraction" classname="test-online-calculator-scenarios;test-subtraction" time="0.000101471">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-subtraction" time="0.000029071">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-subtraction" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-subtraction" time="3.563525421">
+        </testcase>
+        <testcase name="When I enter following values and do the subtraction" classname="test-online-calculator-scenarios;test-subtraction" time="0.000102824">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-subtraction" time="0.00004048">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-subtraction" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-subtraction" time="4.659296149">
+        </testcase>
+        <testcase name="When I enter following values and do the subtraction" classname="test-online-calculator-scenarios;test-subtraction" time="0.000112394">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-subtraction" time="0.000246427">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-subtraction" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-subtraction" time="3.995532481">
+        </testcase>
+        <testcase name="When I enter following values and do the subtraction" classname="test-online-calculator-scenarios;test-subtraction" time="0.00010801">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-subtraction" time="0.000069829">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-subtraction" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-subtraction" time="4.317955138">
+        </testcase>
+        <testcase name="When I enter following values and do the subtraction" classname="test-online-calculator-scenarios;test-subtraction" time="0.000119858">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-subtraction" time="0.000049584">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-subtraction" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-subtraction" time="3.745107983">
+        </testcase>
+        <testcase name="When I enter following values and do the subtraction" classname="test-online-calculator-scenarios;test-subtraction" time="0.000195437">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-subtraction" time="0.000053967">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-subtraction" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-subtraction" time="5.528976644">
+        </testcase>
+        <testcase name="When I enter following values and do the subtraction" classname="test-online-calculator-scenarios;test-subtraction" time="0.000139759">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-subtraction" time="0.00005025">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-subtraction" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-subtraction" time="4.25355749">
+        </testcase>
+        <testcase name="When I enter following values and do the subtraction" classname="test-online-calculator-scenarios;test-subtraction" time="0.000138402">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-subtraction" time="0.000093418">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="4.49955956">
+        </testcase>
+        <testcase name="When I enter following values and do the division" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000534147">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000100062">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="4.629281309">
+        </testcase>
+        <testcase name="When I enter following values and do the division" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000118965">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000033594">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="3.672738205">
+        </testcase>
+        <testcase name="When I enter following values and do the division" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000121091">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000045539">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="4.326750149">
+        </testcase>
+        <testcase name="When I enter following values and do the division" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000105717">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000034564">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="4.181161846">
+        </testcase>
+        <testcase name="When I enter following values and do the division" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000128499">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000045137">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="3.887306873">
+        </testcase>
+        <testcase name="When I enter following values and do the division" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000116539">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000032806">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="4.433517789">
+        </testcase>
+        <testcase name="When I enter following values and do the division" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000103528">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000032078">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="4.655458788">
+        </testcase>
+        <testcase name="When I enter following values and do the division" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000102357">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000027195">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="4.686130122">
+        </testcase>
+        <testcase name="When I enter following values and do the division" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000122344">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000054471">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="4.317565929">
+        </testcase>
+        <testcase name="When I enter following values and do the division" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000099189">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000124161">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="4.389136544">
+        </testcase>
+        <testcase name="When I enter following values and do the division" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000130179">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000027785">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="4.757670658">
+        </testcase>
+        <testcase name="When I enter following values and do the division" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000089785">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-division-and-ce-functionalities-only" time="0.000086965">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-ce-functionalities-with-maths-equation-added" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-ce-functionalities-with-maths-equation-added" time="4.709293873">
+        </testcase>
+        <testcase name="When I enter following values and do the division" classname="test-online-calculator-scenarios;test-ce-functionalities-with-maths-equation-added" time="0.000114484">
+        </testcase>
+        <testcase name="When I press CE button" classname="test-online-calculator-scenarios;test-ce-functionalities-with-maths-equation-added" time="0.000170737">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-ce-functionalities-only-numbers" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-ce-functionalities-only-numbers" time="4.016444642">
+        </testcase>
+        <testcase name="When I enter following value to the calculator" classname="test-online-calculator-scenarios;test-ce-functionalities-only-numbers" time="0.00015045">
+        </testcase>
+        <testcase name="When I press CE button" classname="test-online-calculator-scenarios;test-ce-functionalities-only-numbers" time="0.000058884">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-ce-functionalities-only-numbers" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-ce-functionalities-only-numbers" time="4.587606054">
+        </testcase>
+        <testcase name="When I enter following value to the calculator" classname="test-online-calculator-scenarios;test-ce-functionalities-only-numbers" time="0.000090127">
+        </testcase>
+        <testcase name="When I press CE button" classname="test-online-calculator-scenarios;test-ce-functionalities-only-numbers" time="0.000095423">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-ce-functionalities-only-numbers" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-ce-functionalities-only-numbers" time="4.412881583">
+        </testcase>
+        <testcase name="When I enter following value to the calculator" classname="test-online-calculator-scenarios;test-ce-functionalities-only-numbers" time="0.000083481">
+        </testcase>
+        <testcase name="When I press CE button" classname="test-online-calculator-scenarios;test-ce-functionalities-only-numbers" time="0.000060549">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-ce-functionalities-only-numbers" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/binoykarunarathne/Documents/Binoy_TestScripts/xendit-qa-assessment-master (2)/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-ce-functionalities-only-numbers" time="4.410392427">
+        </testcase>
+        <testcase name="When I enter following value to the calculator" classname="test-online-calculator-scenarios;test-ce-functionalities-only-numbers" time="0.000072649">
+        </testcase>
+        <testcase name="When I press CE button" classname="test-online-calculator-scenarios;test-ce-functionalities-only-numbers" time="0.000071402">
+        </testcase>
+    </testsuite>
+</testsuites>
