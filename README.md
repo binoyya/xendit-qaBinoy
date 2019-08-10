@@ -20,10 +20,19 @@ Has covered
 
 ***How to Run the test cases***
 
-1. npm install
-2. npm run test
+1. `npm install`
+2. `npm run test`
 
 After the execution test results will generate according to the exe results. Please feel free to contact me if you find any incompatibilities while running the tests.
+
+
+After generating the resukts, if we need a execution time of the test files, generated *junit.xml* in the report file can be 
+convert in to html as follows.
+
+`sudo pip install junit2html`
+
+`junit2html JUNIT_XML_FILE [NEW_HTML_FILE]`
+
 
 **********************************************
 

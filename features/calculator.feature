@@ -22,7 +22,7 @@ Examples:
 			| 	0    	    |   0   	 	|		-		      	| 0       	|
 
 
-Scenario Outline: Test division and CE functionalities only
+Scenario Outline: Test division
 Given Open chrome browser and start application
 When I enter following values and do the division
 			|value1 | <value1>|
